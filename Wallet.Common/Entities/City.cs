@@ -2,7 +2,7 @@
 
 namespace Wallet.Common.Entities
 {
-    public class Ctity
+    public class City
     {
         public int Id { get; set; }
 

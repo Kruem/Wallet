@@ -17,4 +17,8 @@
     <Folder Include="Data\Entities\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Wallet.Common\Wallet.Common.csproj" />
+  </ItemGroup>
+
 </Project>
